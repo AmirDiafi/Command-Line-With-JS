@@ -1,10 +1,10 @@
 {
-  "name": "totch5",
+  "name": "touch5",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "totch5": "bantha"
+    "touch5": "bantha"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
